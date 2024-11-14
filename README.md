@@ -15,6 +15,6 @@ Funcionalidades
   - Entre 91 e 100: Lendário 🏆
   - Mais de 100 vitórias: Imortal 🔥
 
-Tecnologias Utilizadas 
+## Tecnologias 
 - HTML
 - JavaScript (Node.js)
