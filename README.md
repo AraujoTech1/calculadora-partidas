@@ -1,7 +1,7 @@
-# Calculadora de Partidas Rankeadas 🕹️
+<h1 align="center">Calculadora de Partidas Rankeadas 🕹️</h1>
 
 ## Descrição do Projeto
-- Um projeto em Node.js que calcula o saldo de vitórias e derrotas de um jogador em partidas ranqueadas, classificando-o em diferentes níveis (como Ferro, Bronze, Prata, etc.) com base no número de vitórias.
+ Um projeto em Node.js que calcula o saldo de vitórias e derrotas de um jogador em partidas ranqueadas, classificando-o em diferentes níveis (como Ferro, Bronze, Prata, etc.) com base no número de vitórias.
 
 ## Funcionalidades
 - Recebe como entrada a quantidade de vitórias e derrotas.
