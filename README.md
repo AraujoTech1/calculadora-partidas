@@ -18,3 +18,4 @@
 ## Tecnologias 
 - HTML
 - JavaScript/NodeJS
+- Git
