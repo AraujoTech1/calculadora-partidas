@@ -3,7 +3,7 @@
 ## Descrição do Projeto
  Um projeto em Node.js que calcula o saldo de vitórias e derrotas de um jogador em partidas ranqueadas, classificando-o em diferentes níveis (como Ferro, Bronze, Prata, etc.) com base no número de vitórias.
 
-## Funcionalidades
+## Funcionalidades do Projeto
 - Recebe como entrada a quantidade de vitórias e derrotas.
 - Calcula o saldo e exibe o nível do jogador.
 - Classificação:
