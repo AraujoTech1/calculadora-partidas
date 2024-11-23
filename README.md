@@ -17,4 +17,4 @@
 
 ## Tecnologias 
 - HTML
-- JavaScript (Node.js)
+- JavaScript/NodeJS
