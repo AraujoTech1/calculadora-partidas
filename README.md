@@ -15,7 +15,7 @@
   - Entre 91 e 100: Lendário 🏆
   - Mais de 100 vitórias: Imortal 🔥
 
-## Tecnologias 
+## Tecnologias Utilizadas
 - HTML
 - JavaScript/NodeJS
 - Git
