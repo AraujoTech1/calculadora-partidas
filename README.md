@@ -13,14 +13,16 @@ Projeto em Node.js que calcula o saldo de vitórias e derrotas de um jogador em 
 
 - Recebe como entrada a quantidade de vitórias e derrotas.
 - Calcula o saldo e exibe o nível do jogador.
-- Classificação:
-  - Menos de 10 vitórias: Ferro 🪨
-  - Entre 11 e 20: Bronze 🥉
-  - Entre 21 e 50: Prata 🥈
-  - Entre 51 e 80: Ouro 🥇
-  - Entre 81 e 90: Diamante 💎
-  - Entre 91 e 100: Lendário 🏆
-  - Mais de 100 vitórias: Imortal 🔥
+
+| Vitória | Classificação   | Ícone   |
+|---------|-----------------|---------|
+| Menos de 10 | Ferro           | 🪨     |
+| Entre 11 e 20 | Bronze          | 🥉     |
+| Entre 21 e 50 | Prata           | 🥈     |
+| Entre 51 e 80 | Ouro            | 🥇     |
+| Entre 81 e 90 | Diamante        | 💎     |
+| Entre 91 e 100 | Lendário       | 🏆     |
+| Mais de 100 | Imortal         | 🔥     |
     
 ---
 
