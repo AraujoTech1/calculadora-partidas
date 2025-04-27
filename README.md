@@ -1,9 +1,16 @@
 <h1 align="center">Calculadora de Partidas Rankeadas 🕹️</h1>
+<p align="center">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+</p>
 
-## Descrição do Projeto
- Um projeto em Node.js que calcula o saldo de vitórias e derrotas de um jogador em partidas ranqueadas, classificando-o em diferentes níveis (como Ferro, Bronze, Prata, etc.) com base no número de vitórias.
+## Descrição
 
-## Funcionalidades do Projeto
+Projeto em Node.js que calcula o saldo de vitórias e derrotas de um jogador em partidas ranqueadas, classificando-o em diferentes níveis (como Ferro, Bronze, Prata, etc.) com base no número de vitórias.
+
+---
+
+## Funcionalidades
+
 - Recebe como entrada a quantidade de vitórias e derrotas.
 - Calcula o saldo e exibe o nível do jogador.
 - Classificação:
@@ -15,7 +22,9 @@
   - Entre 91 e 100: Lendário 🏆
   - Mais de 100 vitórias: Imortal 🔥
     
-## Tecnologias Utilizadas
+---
+
+## Tecnologias 
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
@@ -23,8 +32,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-<p align="right">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo" />
-</p>
+
