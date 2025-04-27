@@ -3,13 +3,13 @@
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
 </p>
 
-## 🕹️ Descrição
+## Descrição
 
 Projeto em Node.js que calcula o saldo de vitórias e derrotas de um jogador em partidas ranqueadas, classificando-o em diferentes níveis (como Ferro, Bronze, Prata, etc.) com base no número de vitórias.
 
 ---
 
-## 🕹️ Funcionalidades
+## Funcionalidades
 
 - Recebe como entrada a quantidade de vitórias e derrotas.
 - Calcula o saldo e exibe o nível do jogador.
@@ -24,7 +24,7 @@ Projeto em Node.js que calcula o saldo de vitórias e derrotas de um jogador em 
     
 ---
 
-## 🕹️ Tecnologias 
+## Tecnologias 
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
