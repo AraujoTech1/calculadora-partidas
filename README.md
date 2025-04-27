@@ -28,10 +28,11 @@ Projeto em Node.js que calcula o saldo de vitórias e derrotas de um jogador em 
 
 ## Tecnologias 
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-1D1F2E?style=for-the-badge&logo=html5&logoColor=43853D)
+![JavaScript](https://img.shields.io/badge/JavaScript-1D1F2E?style=for-the-badge&logo=javascript&logoColor=43853D)
+![Node.js](https://img.shields.io/badge/Node.js-1D1F2E?style=for-the-badge&logo=node.js&logoColor=43853D)
+![Git](https://img.shields.io/badge/Git-1D1F2E?style=for-the-badge&logo=git&logoColor=43853D)
+![VS Code](https://img.shields.io/badge/VS_Code-1D1F2E?style=for-the-badge&logo=visualstudiocode&logoColor=43853D)
+
 
 
