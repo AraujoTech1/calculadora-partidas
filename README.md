@@ -1,4 +1,4 @@
-<h1 align="center">Calculadora de Partidas Rankeadas 🕹️</h1>
+<h1 align="center"> 🕹️: Calculadora de Partidas Rankeadas </h1>
 <p align="center">
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
 </p>
